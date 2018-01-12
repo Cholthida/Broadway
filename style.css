@@ -28,7 +28,7 @@ height: auto;
 width: auto;
 text-align: center;
 }
-.jumbotron{
+.jumbotron .container{
   height: auto;
   width: auto;
   margin: 5px;
@@ -74,11 +74,12 @@ footer h5{
   font-size: 11px;
   color: white;
   background-color: dimgray;
-  display: inline-block;
+  display: inline;
 }
-footer .broadway{
+footer .broadway {
   font-family: Helvetica;
   font-weight: bold;
   color: white;
-  display: inline-block;
+  display: inline;
+  background-color: dimgray;
   }
