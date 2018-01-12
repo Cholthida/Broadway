@@ -80,12 +80,5 @@ footer .broadway{
   font-family: Helvetica;
   font-weight: bold;
   color: white;
-  }
-footer #home{
-  margin-left: 10px;
-}
-footer .broadway{
   display: inline-block;
-  margin-left: 5px;
-  
-}
+  }
