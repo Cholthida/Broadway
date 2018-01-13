@@ -71,7 +71,7 @@ footer{
 }
 footer .row{
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   color: white;
   background-color:  dimgray;
   font-family: Helvetica;
@@ -81,7 +81,6 @@ footer li{
   color: white;
   display: inline-block;
   text-decoration: none;
-
   }
   footer h5{
   font-size: 11px;
