@@ -63,15 +63,15 @@ text-align: center;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 footer{
-  height: auto;
-  width: auto;
-  margin: -5px;
-  padding: -5px;
+  margin: 0px;
+  padding: 0px;
   margin-top: 350px;
 }
+
 footer .row{
+  height: 30px;
   display: flex;
-  align-items: baseline;
+  align-items: center;
   color: white;
   background-color:  dimgray;
   font-family: Helvetica;
