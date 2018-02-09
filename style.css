@@ -22,7 +22,7 @@ header a{
   color: white;
 }
 .main{
-background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png ");
 background-size: cover;
 height: auto;
 width: auto;
